@@ -16,7 +16,7 @@ import {
 } from "@google/generative-ai";
 
 // Chave de API deve estar definida nas variáveis de ambiente
-const apiKey: string = 'AIzaSyBTkiRUV-euSl55F3QA5T909dGXhFmRnvU';
+const apiKey: string = '';
 const genAI = new GoogleGenerativeAI(apiKey);
 
 
