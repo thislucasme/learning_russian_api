@@ -1,0 +1,1 @@
+{"version":3,"file":"tts.module.js","sourceRoot":"","sources":["../../src/tts/tts.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,qDAAiD;AACjD,+CAA2C;AAC3C,2CAAwC;AASxC,IAAa,SAAS,GAAtB,MAAa,SAAS;CAAI,CAAA;AAAb,SAAS;IAPrB,IAAA,eAAM,EAAC;QACJ,OAAO,EAAE,EAAE;QACX,WAAW,EAAE;YACT,8BAAa;SAAE;QACnB,SAAS,EAAE;YACP,wBAAU;SAAE;KACnB,CAAC;GACW,SAAS,CAAI;AAAb,8BAAS"}
